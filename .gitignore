@@ -3,3 +3,6 @@ output/
 .trash/
 _book
 book.pdf
+.DS_Store
+Manifest.toml
+Project.toml
